@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Harshit
 - 👀 I’m interested in contributing to open source community
-- 🌱 I’m currently learning JavaScript and Java
+- 🌱 I’m skilled with Java, Spring Boot, Docker and Microservices
 - 📫 How to reach me : Mail me to harshitbhojak2403@gmail.com
 
 <!---
